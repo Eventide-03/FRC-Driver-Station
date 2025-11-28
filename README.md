@@ -7,8 +7,6 @@ https://cad.onshape.com/documents/104648126b5378171fb9c845/w/b5495f50a847d31153f
 # BOM:
 - [Aluminum Plate (1)](https://www.amazon.com/gp/product/B09S3L2YSY?smid=A3HDY9C2ND66SN&th=1)
 - [Ethernet Coupler (1)](https://www.amazon.com/Coupler-Dingsun-Ethernet-Extender-100BASE-TX/dp/B0CHG2DRY3?th=1)
-- [Bolts (1/2")](https://wcproducts.com/products/wcp-0253?variant=35666743361696)
-- [Bolts (3/4")](https://wcproducts.com/products/wcp-0135?variant=47152059318484)
 
 My team's workshop has everything else necessary!
 
