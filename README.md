@@ -6,7 +6,7 @@ https://cad.onshape.com/documents/104648126b5378171fb9c845/w/b5495f50a847d31153f
 
 # BOM:
 - [Aluminum Plate (1)](https://www.amazon.com/gp/product/B09S3L2YSY?smid=A3HDY9C2ND66SN&th=1)
-- [Ethernet Coupler (1)](https://www.amazon.com/Coupler-Dingsun-Ethernet-Extender-100BASE-TX/dp/B0CHG2DRY3?th=1)
+- [Ethernet Coupler (1)]([https://www.amazon.com/Coupler-Dingsun-Ethernet-Extender-100BASE-TX/dp/B0CHG2DRY3?th=1](https://www.amazon.com/Generic-Pack-Coupler-Adapter-Line/dp/B0D89JJNDV?dib=eyJ2IjoiMSJ9.1UDxF-Tv_xvqR_C2-f3-iuCFB8M1vSlPX6aNexWEDTy9e7VmLSmT0JgMaMG4fbKVJC0lSrHYQUUK2FjqEpgYRdm7o8ViczpkhdqYJuQUGeRdtt0Uo0I_HHiCFeVAkO7H-JeA33xTlm3sr8AKND6m587O-CwgizFQXjk3d6ofqGVeATETt7ZnqCjT_y8z-BHfU902T_aTRkRdDvW3YlczdGygHFVNwceUfJsXhSAg_dE.VmXCUsOkPEMtTPK8Jb_oRwJtSJVNjmpD2PMaMnpMj4w&dib_tag=se&keywords=ethernet+coupler&qid=1764369337&sr=8-1))
 
 My team's workshop has everything else necessary!
 
